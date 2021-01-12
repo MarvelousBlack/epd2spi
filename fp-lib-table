@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "megumi")(type "KiCad")(uri "${KIPRJMOD}/megumi.pretty")(options "")(descr ""))
+  (lib (name "epd")(type "KiCad")(uri "${KIPRJMOD}/epd.pretty")(options "")(descr ""))
+)
